@@ -61,7 +61,7 @@ platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 |-------|--------|
 | Smart contracts | Solidity · Cairo · Rust · Move · Leo (Aleo) · Yul |
 | Frontend | Next.js · React · TypeScript · Ethers.js · Starknet.js |
-| Backend | Node.js · Express · PHP · Laravel · Python |
+| Backend | Node.js · Express · PHP · Laravel |
 | Databases | MySQL · MongoDB · PostgreSQL · Supabase |
 | Infrastructure | LAMP stack · MERN stack · REST APIs |
 | Chains | Ethereum · StarkNet · zkSync · Celo · ICP · Sui · Aleo · XRPL |
@@ -101,7 +101,6 @@ platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 
 ---
 
