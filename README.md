@@ -2,7 +2,7 @@
 
 # Oladayo Ahmod · 0xSpectreSec
 
-**Smart Contract Security Researcher · Full-Stack Blockchain Developer · Nigeria 🇳🇬**
+**Smart Contract Security Researcher · Full-Stack Blockchain Developer **
 
 *Hunting bugs on-chain | Building in public | Cyfrin grad*
 
@@ -16,7 +16,7 @@
 
 ## About me
 
-Smart contract security researcher and full-stack blockchain developer from Nigeria with 5+ years building across the entire web3 stack — from smart contracts to frontend dApps to backend infrastructure. Cyfrin Updraft auditing graduate, now actively competing in audit contests and documenting the journey publicly.
+Smart contract security researcher and full-stack blockchain developer from Nigeria with 4+ years building across the entire web3 stack — from smart contracts to frontend dApps to backend infrastructure. Cyfrin Updraft auditing graduate, now actively competing in audit contests and documenting the journey publicly.
 
 My full-stack background across Solidity, Cairo, Rust, Move, and Leo (Aleo) — combined with frontend and backend experience — gives me end-to-end system intuition that pure contract auditors often lack. I understand how protocols are architected from every layer, which sharpens how I find where they break.
 
@@ -28,34 +28,30 @@ One of the few security researchers who can read and reason about **ZK-native sm
 
 ```
 audit exercises   →   Puppy Raffle · ThunderLoan · TSwap (Cyfrin curriculum)
-attack vectors    →   reentrancy · oracle manipulation · access control · flash loan exploits
+attack vectors    →   reentrancy · oracle manipulation · access control · flash loan exploits · MEV
 zk focus          →   Aleo · Leo · ZK circuit review
-tools             →   Foundry · Slither · Echidna · Hardhat
+tools             →   Foundry · Slither · Aderyn · Echidna · Hardhat
 platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 ```
 
 ---
 
-## Audit portfolio
 
-> Actively competing — updated after every contest
+## Featured builds
 
-| # | Contest | Platform | Findings | Severity | Date |
-|---|---------|----------|----------|----------|------|
-| — | Starting soon... | Codehawks | — | — | 2025 |
-
-📁 Full details → [0xSpectreSec-audit-portfolio](https://github.com/Oladayo-Ahmod/0xSpectreSec-audit-portfolio)
-
----
-
-## Audit exercises (Cyfrin curriculum)
-
-| Repo | Protocol type | Focus area |
-|------|--------------|------------|
-| [audit-puppy-raffle](https://github.com/Oladayo-Ahmod/audit-puppy-raffle) | NFT lottery | Reentrancy · randomness manipulation |
-| [audit-thunderloan](https://github.com/Oladayo-Ahmod/audit-thunderloan) | Flash loan protocol | Oracle price manipulation · fee logic |
-| [swap-audit](https://github.com/Oladayo-Ahmod/swap-audit) | DEX / swap | Slippage · liquidity math |
-| [minimal-account-abstraction](https://github.com/Oladayo-Ahmod/minimal-account-abstraction) | ERC-4337 | Account abstraction security |
+| Project | Description | Chain | Stack |
+|---------|-------------|-------|-------|
+| [Veilance](https://github.com/Oladayo-Ahmod/veilance) | Privacy-first freelancing platform with ZK milestone escrow | Aleo | Leo · Next.js · Supabase |
+| [dFreelancer](https://github.com/Oladayo-Ahmod/dFreelancer) | Fully on-chain decentralized freelancing platform | Ethereum | Solidity |
+| [DAO dApp](https://github.com/Oladayo-Ahmod/DAO_dApp_Typescript) | Decentralized Autonomous Organisation | Ethereum | Solidity · Next.js · TS |
+| [zkbtc-vaults](https://github.com/Oladayo-Ahmod/zkbtc-vaults) | ZK-based Bitcoin vaults | zkSync | TypeScript |
+| [zk-freelance](https://github.com/Oladayo-Ahmod/zk-freelance) | ZK-powered freelance marketplace | — | CSS |
+| [dao-on-zkSync-era](https://github.com/Oladayo-Ahmod/dao-on-zkSync-era) | DAO on zkSync Era | zkSync | TypeScript |
+| [escrow-contract](https://github.com/Oladayo-Ahmod/escrow-contract) | On-chain escrow | Ethereum | TypeScript |
+| [NFT Marketplace](https://github.com/Oladayo-Ahmod/an_nft_marketplace) | NFT marketplace on Celo | Celo | JavaScript |
+| [suitity](https://github.com/Oladayo-Ahmod/suitity) | Sui ecosystem project | Sui | Move |
+| [icp-lottery](https://github.com/Oladayo-Ahmod/icp-lottery) | Lottery on ICP | ICP | Rust |
+| [celo-dao-tut](https://github.com/Oladayo-Ahmod/celo-dao-tut) | DAO tutorial on Celo | Celo | Solidity |
 
 ---
 
@@ -66,28 +62,9 @@ platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 | Smart contracts | Solidity · Cairo · Rust · Move · Leo (Aleo) · Yul |
 | Frontend | Next.js · React · TypeScript · Ethers.js · Starknet.js |
 | Backend | Node.js · Express · PHP · Laravel · Python |
-| Databases | MySQL · MongoDB · PostgreSQL |
+| Databases | MySQL · MongoDB · PostgreSQL · Supabase |
 | Infrastructure | LAMP stack · MERN stack · REST APIs |
 | Chains | Ethereum · StarkNet · zkSync · Celo · ICP · Sui · Aleo · XRPL |
-
----
-
-## Featured builds
-
-| Project | Description | Chain | Stack |
-|---------|-------------|-------|-------|
-| [dFreelancer](https://github.com/Oladayo-Ahmod/dFreelancer) | Fully on-chain freelancing platform | Ethereum | Solidity |
-| [DAO dApp](https://github.com/Oladayo-Ahmod/DAO_dApp_Typescript) | Decentralized Autonomous Organisation | Ethereum | Solidity · Next.js · TS |
-| [zkbtc-vaults](https://github.com/Oladayo-Ahmod/zkbtc-vaults) | ZK-based Bitcoin vaults | zkSync | TypeScript |
-| [zk-freelance](https://github.com/Oladayo-Ahmod/zk-freelance) | ZK-powered freelance marketplace | — | CSS |
-| [aleo_test_private_wallet](https://github.com/Oladayo-Ahmod/aleo_test_private_wallet) | Private wallet on Aleo | Aleo | Leo |
-| [test_private_auction](https://github.com/Oladayo-Ahmod/test_private_auction) | ZK private auction | Aleo | Leo |
-| [dao-on-zkSync-era](https://github.com/Oladayo-Ahmod/dao-on-zkSync-era) | DAO on zkSync Era | zkSync | TypeScript |
-| [escrow-contract](https://github.com/Oladayo-Ahmod/escrow-contract) | On-chain escrow | Ethereum | TypeScript |
-| [NFT Marketplace](https://github.com/Oladayo-Ahmod/an_nft_marketplace) | NFT marketplace on Celo | Celo | JavaScript |
-| [suitity](https://github.com/Oladayo-Ahmod/suitity) | Sui ecosystem project | Sui | Move |
-| [icp-lottery](https://github.com/Oladayo-Ahmod/icp-lottery) | Lottery on ICP | ICP | Rust |
-| [celo-dao-tut](https://github.com/Oladayo-Ahmod/celo-dao-tut) | DAO tutorial on Celo | Celo | Solidity |
 
 ---
 
@@ -107,9 +84,9 @@ platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 ## Languages & tools
 
 **Security**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square)
 ![Slither](https://img.shields.io/badge/Slither-grey?style=flat-square)
+![Aderyn](https://img.shields.io/badge/Aderyn-purple?style=flat-square)
 ![Echidna](https://img.shields.io/badge/Echidna-red?style=flat-square)
 
 **Smart contract languages**
