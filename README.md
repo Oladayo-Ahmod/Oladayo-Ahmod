@@ -118,10 +118,3 @@ platforms         →   Codehawks · Code4rena · Sherlock · Immunefi
 
 ---
 
-<div align="center">
-
-*"The best engineers aren't just builders — they're the ones who understand how things break."*
-
-**Open to:** Smart contract developer · Blockchain engineer · DevRel · ZK/FHE security research · Remote roles
-
-</div>
