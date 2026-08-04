@@ -67,7 +67,7 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
 
 | Project | Description | Chain | Stack |
 |---------|-------------|-------|-------|
-| [Veilance](https://github.com/Oladayo-Ahmod/veilance) | Privacy-first freelancing platform with ZK milestone escrow · [Live ↗](https://veilance.vercel.app) | Aleo | Leo · Next.js · Supabase |
+| [Veilance](https://github.com/Oladayo-Ahmod/veilance) | Privacy-first freelancing platform with ZK milestone escrow · | Aleo | Leo · Next.js · Supabase |
 | [MindCast](https://github.com/blockend-dev/mindcast) | Decentralized podcast platform — live mainnet deployment (registry, ERC-20, staking) | 0G Chain | Solidity · Next.js |
 | [Sealect](https://github.com/blockend-dev/sealect) | FHE-powered confidential decision platform — vendor selection, blind review, KYC gate, private payments | Arbitrum | Solidity · FHE · Next.js |
 | [Neroworks](https://github.com/blockend-dev/neroworks) | Decentralized freelance marketplace with Account Abstraction and Paymaster for gasless onboarding | Nero Chain | Solidity · Next.js · AA |
