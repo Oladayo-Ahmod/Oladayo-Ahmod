@@ -50,7 +50,6 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
 |---|---------|----------|----------|----------|------|
 | — | Entering active contests | Sherlock · HackenProof · Immunefi | — | — | 2026 |
 
-📁 Full portfolio → [audit-portfolio](https://github.com/Oladayo-Ahmod/0xSpectreSec-audit-portfolio)
 
 ---
 
