@@ -140,7 +140,7 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
 - 🏆 Actively competing on **Sherlock · HackenProof · Immunefi**
 - 📖 Reading audit reports daily on **Solodit.xyz**
 - 🔐 Deepening **fuzz testing** with handler-based invariant testing
-- 📝 Building in publi
+- 📝 Building in public
 
 ---
 
