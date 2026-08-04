@@ -16,7 +16,7 @@
 
 ## About me
 
-Full-stack blockchain developer and smart contract security researcher from Nigeria with 5 years of engineering experience — 4+ years building across the entire Web3 stack since 2022, with a deliberate security-focused shift since 2025.
+Full-stack blockchain developer and smart contract security researcher with 5 years of engineering experience — 4+ years building across the entire Web3 stack since 2022, with a deliberate security-focused shift since 2025.
 
 My background spans EVM and non-EVM ecosystems — Solidity, Cairo, Rust, Leo (Aleo), TypeScript — giving me end-to-end system intuition that single-chain developers lack. I understand how protocols are architected from every layer, which sharpens how I find where they break.
 
