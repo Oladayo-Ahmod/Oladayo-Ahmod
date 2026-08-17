@@ -2,7 +2,7 @@
 
 # Oladayo Ahmod · 0xSpectreSec
 
-**Full-Stack Blockchain Developer · Smart Contract Security Researcher · Nigeria 🇳🇬**
+**Full-Stack Blockchain Developer · Smart Contract Security Researcher**
 
 *Building production systems · Breaking them on purpose · Cyfrin grad*
 
