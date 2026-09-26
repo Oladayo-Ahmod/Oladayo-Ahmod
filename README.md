@@ -28,6 +28,8 @@ One of the few developers who can read and reason about **ZK-native smart contra
 
 ```
 cyfrin grad       →   Puppy Raffle · ThunderLoan · TSwap audit exercises . Boss Bridge audit
+codehawks         →   3 First Flights (ThunderLoan · Snowman Airdrop · Festival Pass)
+                      4 valid findings · 3 High · 1 Medium
 dvdf v4           →   all 18 challenges solved — flash loans · oracles · governance
                       proxy vulnerabilities · ABI encoding · CREATE2 · L2 bridges
 exploit classes   →   flash loan attacks · reentrancy · ERC-2771 spoofing · arbitrary calldata
@@ -37,7 +39,7 @@ defi mechanics    →   AMM constant-product · LP mint/burn · swap routing · 
                       CREATE2 pair addressing · TWAP oracle design · concentrated liquidity (V3)
                       Merkle distributions · L2 bridge mechanics · Curve stableswap
 tools             →   Foundry · Slither · Aderyn · Echidna · Hardhat
-platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
+platforms         →   Sherlock · HackenProof · Immunefi · Codehawks · Guardian
 ```
 
 ---
@@ -46,10 +48,16 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
 
 > Actively competing — updated after every contest
 
-| # | Contest | Platform | Findings | Severity | Date |
-|---|---------|----------|----------|----------|------|
-| — | Entering active contests | Sherlock · HackenProof · Immunefi | — | — | 2026 |
+**4 valid findings across 3 Codehawks First Flights · 3 High · 1 Medium**
 
+| # | Contest | Platform | Valid findings | Severity | Date |
+|---|---------|----------|----------------|----------|------|
+| 1 | ThunderLoan (First Flight) | Codehawks | 2 | 2 H: `deposit()` accepted as a substitute for `repay()`, storage collision on upgrade | 2026 |
+| 2 | Snowman Airdrop (First Flight) | Codehawks | 1 | 1 H: malformed EIP-712 `MESSAGE_TYPEHASH` breaks all wallet-signed claims | 2026 |
+| 3 | Festival Pass (First Flight) | Codehawks | 1 | 1 M: off-by-one in `redeemMemorabilia` supply cap | 2026 |
+| 4 | Alt Fun | Guardian | — | Live contest, in progress | 2026 |
+
+*Codehawks reports are private; findings above were matched against the judged answer keys. Public PoCs and write-ups are coming.*
 
 ---
 
@@ -137,7 +145,8 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks
 ## Currently
 
 - ✅ Completed **Damn Vulnerable DeFi v4** — all 18 challenges solved with full audit reports and PoCs
-- 🏆 Actively competing on **Sherlock · HackenProof · Immunefi**
+- ✅ Placed **4 valid H/M findings** across 3 **Codehawks First Flights**
+- 🏆 Live contest on **Guardian** (Alt Fun); actively competing on **Sherlock · HackenProof · Immunefi · Codehawks**
 - 📖 Reading audit reports daily on **Solodit.xyz**
 - 🔐 Deepening **fuzz testing** with handler-based invariant testing
 - 📝 Building in public
