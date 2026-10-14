@@ -55,7 +55,8 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks · Guar
 | 1 | ThunderLoan (First Flight) | Codehawks | 2 | 2 H: `deposit()` accepted as a substitute for `repay()`, storage collision on upgrade | 2026 |
 | 2 | Snowman Airdrop (First Flight) | Codehawks | 1 | 1 H: malformed EIP-712 `MESSAGE_TYPEHASH` breaks all wallet-signed claims | 2026 |
 | 3 | Festival Pass (First Flight) | Codehawks | 1 | 1 M: off-by-one in `redeemMemorabilia` supply cap | 2026 |
-| 4 | Alt Fun | Guardian | — | Live contest, in progress | 2026 |
+
+*Also: Guardian contest (Alt Fun, 2026), 1 report submitted.*
 
 *Codehawks reports are private; findings above were matched against the judged answer keys. Public PoCs and write-ups are coming.*
 
@@ -146,7 +147,7 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks · Guar
 
 - ✅ Completed **Damn Vulnerable DeFi v4** — all 18 challenges solved with full audit reports and PoCs
 - ✅ Placed **4 valid H/M findings** across 3 **Codehawks First Flights**
-- 🏆 Live contest on **Guardian** (Alt Fun); actively competing on **Sherlock · HackenProof · Immunefi · Codehawks**
+- 🔍 Competing in audit contests across **Sherlock · HackenProof · Immunefi · Codehawks · Guardian**. Most recent: Guardian (Alt Fun)
 - 📖 Reading audit reports daily on **Solodit.xyz**
 - 🔐 Deepening **fuzz testing** with handler-based invariant testing
 - 📝 Building in public
