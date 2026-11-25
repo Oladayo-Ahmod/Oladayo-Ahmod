@@ -24,53 +24,9 @@ One of the few developers who can read and reason about **ZK-native smart contra
 
 ---
 
-## Security work
 
-```
-cyfrin grad       →   Puppy Raffle · ThunderLoan · TSwap audit exercises . Boss Bridge audit
-codehawks         →   3 First Flights (ThunderLoan · Snowman Airdrop · Festival Pass)
-                      4 valid findings · 3 High · 1 Medium
-dvdf v4           →   all 18 challenges solved — flash loans · oracles · governance
-                      proxy vulnerabilities · ABI encoding · CREATE2 · L2 bridges
-exploit classes   →   flash loan attacks · reentrancy · ERC-2771 spoofing · arbitrary calldata
-                      governance/snapshot manipulation · oracle manipulation (spot · TWAP · V3)
-                      Safe wallet supply chain exploitation · storage slot collision · ABI smuggling
-defi mechanics    →   AMM constant-product · LP mint/burn · swap routing · flash swap callbacks
-                      CREATE2 pair addressing · TWAP oracle design · concentrated liquidity (V3)
-                      Merkle distributions · L2 bridge mechanics · Curve stableswap
-tools             →   Foundry · Slither · Aderyn · Echidna · Hardhat
-platforms         →   Sherlock · HackenProof · Immunefi · Codehawks · Guardian
-```
 
----
 
-## Audit portfolio
-
-> Actively competing — updated after every contest
-
-**4 valid findings across 3 Codehawks First Flights · 3 High · 1 Medium**
-
-| # | Contest | Platform | Valid findings | Severity | Date |
-|---|---------|----------|----------------|----------|------|
-| 1 | ThunderLoan (First Flight) | Codehawks | 2 | 2 H: `deposit()` accepted as a substitute for `repay()`, storage collision on upgrade | 2026 |
-| 2 | Snowman Airdrop (First Flight) | Codehawks | 1 | 1 H: malformed EIP-712 `MESSAGE_TYPEHASH` breaks all wallet-signed claims | 2026 |
-| 3 | Festival Pass (First Flight) | Codehawks | 1 | 1 M: off-by-one in `redeemMemorabilia` supply cap | 2026 |
-
-*Also: Guardian contest (Alt Fun, 2026), 1 report submitted.*
-
-*Codehawks reports are private; findings above were matched against the judged answer keys. Public PoCs and write-ups are coming.*
-
----
-
-## Featured security work
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [DVDF v4 Solutions](https://github.com/Oladayo-Ahmod/dvdf-solutions) | All 18 challenges solved — flash loans · oracles · governance · proxies · ABI smuggling · L2 bridges | Solidity · Foundry |
-| [audit-puppy-raffle](https://github.com/Oladayo-Ahmod/audit-puppy-raffle) | Cyfrin curriculum audit — reentrancy · randomness manipulation | Solidity |
-| [audit-thunderloan](https://github.com/Oladayo-Ahmod/audit-thunderloan) | Cyfrin curriculum audit — oracle price manipulation · fee logic | Solidity |
-
----
 
 ## Featured builds
 
@@ -143,16 +99,6 @@ platforms         →   Sherlock · HackenProof · Immunefi · Codehawks · Guar
 
 ---
 
-## Currently
-
-- ✅ Completed **Damn Vulnerable DeFi v4** — all 18 challenges solved with full audit reports and PoCs
-- ✅ Placed **4 valid H/M findings** across 3 **Codehawks First Flights**
-- 🔍 Competing in audit contests across **Sherlock · HackenProof · Immunefi · Codehawks · Guardian**. Most recent: Guardian (Alt Fun)
-- 📖 Reading audit reports daily on **Solodit.xyz**
-- 🔐 Deepening **fuzz testing** with handler-based invariant testing
-- 📝 Building in public
-
----
 
 <div align="center">
 
